@@ -1,0 +1,5 @@
+api_key: "B7F8K24-3RH4HGH-H7STC51-6PC003D"
+model_server_base_url: "http://localhost:3001/api/v1"
+workspace_slug: "recording"
+stream: true
+stream_timeout: 60
